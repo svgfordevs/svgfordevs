@@ -1,9 +1,5 @@
 ---
 layout: default
-title: "Happy Jekylling!"
+title: "Free Svg Images for Devs"
 ---
 
-## You're ready to go!
-
-Start developing your Jekyll website.
-de
