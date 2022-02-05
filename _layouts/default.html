@@ -9,25 +9,15 @@
   <body>
 
 
-    <nav>
-      <a href="/">
-      <span>svgdevs.com</span>
-      </a>
-
-      <ul>
-        <li><a href="/about">About</a></li>
-      </ul>
-    </nav>
 
 
-
+    {% include nav.html %}
 
     <section id="hero">
       <div class="wrapper">
         <h1>Free SVG Images for Devs</h1>
         <p>SVG illustrations free for commercial and personal use under the CC0 license (MIT license) — No attribution required.</p>
 
-        <a href="/"><button>DOWNLOAD</button></a>
 
       </div>
     </section>
@@ -37,21 +27,18 @@
     <section id="images">
       <div class="wrapper images">
 
-        <div class="image"><img src="/browser.webp" alt=""></div>
-        <div class="image"><img src="/browser.webp" alt=""></div>
-        <div class="image"><img src="/browser.webp" alt=""></div>
+        <div class="image"><img src="/browser.webp" alt="">
+          <a href="/browser.zip" download><button>download</button></a>
+        </div>
+
 
       </div>
     </section>
 
 
-  <footer>
 
-    <ul>
-      <a href="/about"><li>about</li></a>
-      <a href="/license"><li>license</li></a>
-    </ul>
-  </footer>
+
+    {% include footer.html %}
 
 
 
