@@ -21,4 +21,4 @@ Spread the word. Show this page to your friends or to you colleagues. Even if yo
 
 - Asa & Lukasz
 
-If you want to contact us, please send us a message to asa@svgdevs.com
+If you want to contact us, please send us a message to lukasz.adms@gmail.com
