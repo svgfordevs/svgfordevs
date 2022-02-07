@@ -235,7 +235,10 @@ template {
 
 
 
-
+button a {
+  color: white;
+  text-decoration: none;
+}
 
 
 
@@ -267,6 +270,7 @@ template {
      font-size: 14px;
      letter-spacing: 0.03em;
      margin-top: 12px;
+     cursor: pointer;
    }
 
    nav a {
@@ -334,13 +338,22 @@ footer ul {
 
 
   .wrapper.images {
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
     grid-gap: 32px;
   } 
 
   .image {
     margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    img {
+      height: 300px;
+      object-fit: contain;
+    }
   }
+
+
   
 
 
