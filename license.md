@@ -7,7 +7,7 @@ permalink: /license
 
 # This is The License:
 
-Our illustrations & icons are avaialble under the CC0 license (MIT license) - no attribution required.
+Our illustrations & icons are available under the CC0 license (MIT license) - no attribution required.
 
 ## What is Allowed?
 
@@ -16,7 +16,7 @@ There is no catch. This is our official license.
 
 ## What is Not Allowed?
 
-Don't distribute or sell our SVG images.
+Don't distribute or sell our SVG images directly. You're not allowed to create a copy of this site.
 
 
 
