@@ -21,4 +21,6 @@ Spread the word. Show this page to your friends or to you colleagues. Even if yo
 
 - Asa & Lukasz
 
-If you want to contact us, please send us a message to <a href= "mailto:lukasz.adms@gmail.com">lukasz.adms@gmail.com</a>
+## Contact
+
+If you want to contact us, please send us a message to <a href= "mailto:hello@svgdevs.com">hello@svgdevs.com</a>
